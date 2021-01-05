@@ -10,6 +10,9 @@ const index = () => {
       <Link to='/contacto' className='NavLink'>
         Contacto
       </Link>
+      <Link to='/galeria' className='NavLink'>
+        Galeria
+      </Link>
     </NavbarContainer>
   );
 };
